@@ -1,0 +1,60 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>本週聚會內容</title>
+<style type="text/css">
+<!--
+body {
+	background-image: url(images/aboutus_menubk.gif);
+	margin-left: 0px;
+	margin-top: 0px;
+	background-repeat: no-repeat;
+}
+a:hover {
+	text-decoration: underline;
+	color: #006600;
+}
+.style23 {	color: #FFFFFF;
+	font-size: 14px;
+}
+a:link {
+	text-decoration: none;
+	color: #000000;
+}
+a:visited {
+	text-decoration: none;
+	color: #000000;
+}
+a:active {
+	text-decoration: none;
+}
+-->
+</style></head>
+
+<body>
+<table width="132" border="0" cellspacing="0" cellpadding="7">
+  <tr>
+    <td align="left"><span class="style23"> <a href="index.php" target="_parent">異象‧使命</a></span></td>
+  </tr>
+  <tr>
+    <td align="left"><span class="style23"><a href="values.php" target="_parent">核心價值</a></span></td>
+  </tr>
+  <tr>
+    <td align="left"><span class="style23"><a href="faith.php" target="_parent">信仰立場</a></span></td>
+  </tr>
+  <tr>
+    <td align="left"><span class="style23"><a href="history.php" target="_parent">教會簡史</a></span></td>
+  </tr>
+  <tr>
+    <td align="left" class="style23"><a href="strategy.php" target="_parent">定位與策略</a></td>
+  </tr>
+  <tr>
+    <td align="left"><span class="style23"><a href="pastorchou.php" target="_parent">周神助牧師</a></span></td>
+  </tr>
+  <tr>
+    <td align="left"><span class="style23"><a href="pastorou.php" target="_parent">區永亮牧師</a></span></td>
+  </tr>
+</table>
+</body>
+</html>
