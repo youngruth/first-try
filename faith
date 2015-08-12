@@ -1,0 +1,119 @@
+<? include("../_headmenu/_inpage_head.html"); ?>
+<title>信仰立場</title>
+<link rel='stylesheet' id='css_main-css'  href='css_about/about.css' type='text/css' media='all' /><!--- about --->
+
+</head>
+<? include("../_headmenu/_inpage_menu.html"); ?>
+<!---------------------------------------- End menu-wrapper ---------------------------------------- >
+<!-- Start Tophead -->
+	<div id="tophome"><a href="index.php">Home</a> &raquo;&nbsp;<span class="current">關於我們</span> &raquo;&nbsp;<span class="current">信仰立場</span>
+	</div>
+<!---------------------------------------- End Breadcrumbs ---------------------------------------->
+
+<!---------------------------------------- Start Content Wrapper ---------------------------------------->
+<div id="content_wrapper">
+<!-- Content Area -->
+<div id="content">
+
+<!-- start of programing -->
+
+<table width="840" height="699" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <th width="33" valign="top" scope="col"><img src="images/aboutus_03.gif" alt="aboutus" width="33" height="238" /></th>
+    <td width="132" valign="top" scope="col"><table width="132" border="0" cellpadding="0" cellspacing="0">
+      <tr>
+        <td height="40" valign="top" bgcolor="#B2D451"><img src="images/aboutus_menutop.gif" alt="up" width="132" height="30" /></td>
+      </tr>
+      <tr>
+        <td><iframe src="menu.html" name="menu" width="132" marginwidth="0" height="800" marginheight="0" scrolling="no" frameborder="0"></iframe>&nbsp;</td>
+      </tr>
+    </table></td>
+    <td valign="top" scope="col"><table width="706" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td align="right"><img src="images/aboutus_faith.gif" alt="faith" width="205" height="34" /></td>
+      </tr>
+      <tr>
+        <td height="538" align="left" valign="top"><table width="97%" border="0" align="right" cellpadding="5" cellspacing="2">
+          <tr>
+            <td valign="bottom"><span class="style25">我們相信整本聖經是神所默示的，完全無誤，是基督徒信仰和生活的最高權威和準則‭。<br />
+                <span class="style23">（提後三16；林前二13‭）‬</span></span></td>
+          </tr>
+          <tr>
+            <td height="50" valign="bottom"><span class="style25">我們相信自有永有獨一的真神啟示自己為聖父，聖子和聖靈三位一體的神，是創造萬有，救贖萬民的主。<br />
+              ‭<span class="style23">（太二十八19；林後十三14‭）</span></span></td>
+          </tr>
+          <tr>
+            <td height="50" valign="bottom"><span class="style25">我們相信耶穌基督是神的獨生子，由聖靈感孕，藉童貞女馬利亞所生；祂是完全的神，也是完全的人。‭<br />
+                <span class="style23">（路一26～35；約一14～18；賽七14，九6）</span></span></td>
+          </tr>
+          <tr>
+            <td height="50" valign="bottom"><span class="style25">我們相信耶穌基督為我們的罪受死，埋葬後第三天復活，升天，並照祂所應許的還要再來‭。<br />
+                <span class="style23">（林前十五1～4；羅四25；約十四2～3；帖前四13～18‭）</span></span></td>
+          </tr>
+          <tr>
+            <td height="50" valign="bottom"><span class="style25">我們相信聖靈是與聖父，聖子同質、同權、同尊、同榮；祂使信徒重生成聖，又賜下各樣屬靈恩賜，這些恩賜今日仍然存在。<br />
+                <span class="style23">（約三5～8；羅八9～13；林前十二1～11；羅十二6～8；弗四4～16）</span></span></td>
+          </tr>
+          <tr>
+            <td height="50" valign="bottom"><span class="style25">我們相信人是照著神的形像造的，因不順服神而墮落成罪人，是完全敗壞，無力自救，需神的救贖‭。<br />
+                <span class="style23">（創一26～27，三1～7；羅五12、18）</span></span></td>
+          </tr>
+          <tr>
+            <td height="50" valign="bottom"><span class="style25">我們相信人的得救是本乎神的恩典，也因著人的悔改並相信耶穌在十字架上所成就的救贖大工。‭<br />
+                <span class="style23">（弗二8～9；來九12、22）</span></span></td>
+          </tr>
+          <tr>
+            <td height="50" valign="bottom"><span class="style25">我們相信信徒應不斷地被聖靈充滿，過一個與世界有別的聖潔生活，結出聖靈的果子，並得著能力，有效的事奉主。<br />
+                <span class="style23">（(‬弗五18；林後六14，七1；加五22；徒一8‭）</span></span></td>
+          </tr>
+          <tr>
+            <td height="50" valign="bottom"><span class="style25">我們相信教會存在的目的是裝備眾聖徒，活出基督的見證，傳揚天國的福音，完成主的大使命。<br />
+                <span class="style23">（太五13～16，二十八18～20；弗四11～16；腓二14～16）</span></span></td>
+          </tr>
+          <tr>
+            <td height="50" valign="bottom"><p class="style25">我們相信教會是基督的身體，一個真實的普世教會是由重生的信徒所組成，而這個普世教會是由在不同地區的地方教會所組成。<br />
+              <span class="style23">（弗四4、12；林前十二13；徒十五22；太十六18，十八15～20‭）</span></p></td>
+          </tr>
+          <tr>
+            <td height="50" valign="bottom"><span class="style25">我們相信藉由完全浸入水中的洗禮，是教會為重生得救之人施洗的主要方式，但也尊重接納其他方式的洗禮。<br />
+                <span class="style23">（‬太二十八19；徒二38，十九1～6）</span></span></td>
+          </tr>
+          <tr>
+            <td height="50" valign="bottom"><span class="style25">我們相信兒女是神所賜的產業，奉獻孩童是神所喜悅的，父母當盡屬靈教育的責任，‭ ‬培養出敬虔的後代。<br />
+                <span class="style23">（詩一二七3；撒上一21～28；路二21～23；箴三1～4，十三24）</span><br />
+            </span></td>
+          </tr>
+          <tr>
+            <td height="50" valign="bottom"><span class="style25">我們相信所有重生且受過洗禮的人得領主餐，領主餐時當省察自己的行為，免得吃喝自己的罪‭。<br />
+                <span class="style23">（林前十一28～32；太二十六26～28‭）</span></span></td>
+          </tr>
+          <tr>
+            <td height="50" valign="bottom"><span class="style25">我們相信魔鬼是一真實的屬靈位格；牠與牠的使者已被審判，在末日將被扔進火湖裡。<br />
+                <span class="style23">（太二十五41；啟二十10）</span></span></td>
+          </tr>
+          <tr>
+            <td height="50" valign="bottom"><span class="style25">我們相信在末日，基督將再來，審判活人死人，不信的人復活受永刑，信的人復活得永生，並與基督同作王，直到永永遠遠。<br />
+                <span class="style23">（可九43～48；帖後一9；啟二十10～15，二十二5）</span></span></td>
+          </tr>
+          
+        </table></td>
+      </tr>
+      <tr>
+        <td align="right">&nbsp;</td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+
+
+<!-- End Of Programing -->
+
+</div>
+<!-- End Content Area -->
+<div class="clear"></div>
+</div>
+<!---------------------------------------- End Content Wrapper ---------------------------------------->
+
+
+<!---------------------------------------- Start Footer Sidebar ---------------------------------------->
+<? include("../_headmenu/_indexfooter.html"); ?>
